@@ -45,6 +45,7 @@ while True:
                 z = 3
             elif mousey > 300:
                 # quit
+                pygame.quit()
                 sys.exit()
             else:
                 #focus
