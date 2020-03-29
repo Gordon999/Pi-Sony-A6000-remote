@@ -25,6 +25,7 @@ while True:
             control = []
             mousex, mousey = event.pos
             if mousey > 320:
+                pygame.quit()
                 sys.exit()
             x = int((mousex-34)/44)
             y = int((mousey-40)/40)
