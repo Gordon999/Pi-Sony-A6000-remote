@@ -8,5 +8,7 @@ For the Remote2 switch the camera into Remote Ctrl, for Remote1 you need the RMT
 
 Note LOCK will work on the VP1, put the camera in BULB mode, click above the shutter button to start and below the shutter button to stop exposure.
 
+Although tested on a A6000 and a A7R4 it should work on several Sony Cameras.
+
 At your own risk !!
 
